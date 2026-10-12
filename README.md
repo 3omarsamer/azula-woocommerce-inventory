@@ -51,13 +51,25 @@ docs/                  # Architecture, history, testing, case study, and securit
 4. Open **WooCommerce → Inventory** to explore Stock Lookup, Stock History, and Category Audit.
 5. Test stock updates and category edits only with dummy products and reversible sample data.
 
-**Minimum declared requirements:** PHP 7.4 and WooCommerce 7.0 (in the supplied plugin header). Compatibility across all versions has not been independently verified.
+**Minimum declared requirements:** PHP 7.4 and WooCommerce 7.0 (in the supplied plugin header). Compatibility across all versions has not been independently verified. **Historical note:** the plugin header still describes the original "Audit-only" scope; the later v1.4.2 admin module includes explicit stock and category edits, as explained above. The original code is preserved for provenance.
 
 ## Validation status
 Static source inspection and PHP syntax checks are included in [Testing](docs/TESTING.md). No live store, external warehouse, or full WordPress/WooCommerce integration tests were executed for this public release. The attached screenshots supplied by the project owner show a running UI but do not independently establish backend correctness.
 
-## Screenshots
-Store screenshots were **deliberately not included**, because the originals show real SKUs, stock quantities and business catalog information. Create anonymized staging examples before adding visuals publicly. See [Portfolio Presentation](docs/PORTFOLIO.md).
+## Interface preview (illustrative sample data)
+
+These diagrams represent the three screens seen in the owner-provided interface screenshots, but use **invented demo products, SKUs, dates and quantities**. They are **illustrations, not actual staging or production screenshots**.
+
+### Stock Lookup — inspect and update quantities in one place
+![Illustrative Stock Lookup interface](docs/images/stock-lookup-demo.svg)
+
+### Stock History — investigate changes by SKU, source, time and quantity
+![Illustrative Stock History interface](docs/images/stock-history-demo.svg)
+
+### Category Audit — spot possible missing categories and apply reviewed edits
+![Illustrative Category Audit interface](docs/images/category-audit-demo.svg)
+
+The original production screenshots are intentionally excluded because they expose real catalog and inventory data. See [Portfolio Presentation](docs/PORTFOLIO.md).
 
 ## More detail
 [Business Case](docs/BUSINESS_CASE.md) · [Architecture](docs/ARCHITECTURE.md) · [Features](docs/FEATURES.md) · [Development Timeline](docs/DEVELOPMENT_HISTORY.md) · [Challenges](docs/CHALLENGES.md) · [Testing](docs/TESTING.md) · [Security](docs/SECURITY.md) · [Roadmap](docs/ROADMAP.md) · [Portfolio](docs/PORTFOLIO.md)

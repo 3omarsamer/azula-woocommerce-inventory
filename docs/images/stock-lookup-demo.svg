@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="680" viewBox="0 0 1440 680">
+<rect x="0" y="0" width="1440" height="680" rx="0" fill="#f3f6fa" stroke="none"/>
+<rect x="0" y="0" width="1440" height="79" rx="0" fill="#172a46" stroke="none"/>
+<text x="35" y="51" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="white" font-weight="700">AZULA   /   INVENTORY</text>
+<text x="1120" y="49" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#c0d6ee" font-weight="700">ILLUSTRATIVE DEMO</text>
+<rect x="34" y="96" width="1372" height="550" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<rect x="57" y="113" width="163" height="42" rx="6" fill="#dbeaff" stroke="none"/>
+<text x="75" y="140" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#135baa" font-weight="700">Stock Lookup</text>
+<rect x="230" y="113" width="163" height="42" rx="6" fill="#f1f4f8" stroke="none"/>
+<text x="248" y="140" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#637084" font-weight="400">Stock History</text>
+<rect x="403" y="113" width="163" height="42" rx="6" fill="#f1f4f8" stroke="none"/>
+<text x="421" y="140" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#637084" font-weight="400">Category Audit</text>
+<text x="58" y="196" font-family="Arial,Helvetica,sans-serif" font-size="27" fill="#142c50" font-weight="700">Stock Lookup</text>
+<text x="58" y="225" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#64758c" font-weight="400">Synthetic sample data — not a live store screenshot</text>
+<rect x="58" y="248" width="390" height="44" rx="5" fill="#f6f8fb" stroke="#cbd6e5"/>
+<text x="73" y="277" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#8795a8" font-weight="400">Search product name or SKU</text>
+<rect x="470" y="256" width="90" height="28" rx="7" fill="#eaf2ff" stroke="none"/><text x="479" y="276" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#2764b1" font-weight="600">All stock</text>
+<rect x="594" y="256" width="140" height="28" rx="7" fill="#eaf2ff" stroke="none"/><text x="603" y="276" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#2764b1" font-weight="600">All categories</text>
+<rect x="771" y="256" width="120" height="28" rx="7" fill="#eaf2ff" stroke="none"/><text x="780" y="276" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#2764b1" font-weight="600">All statuses</text>
+<rect x="944" y="248" width="96" height="44" rx="5" fill="#2563eb" stroke="none"/>
+<text x="962" y="276" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="white" font-weight="700">Search</text>
+<text x="59" y="338" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5e7190" font-weight="700">Product / SKU</text>
+<text x="535" y="338" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5e7190" font-weight="700">Current stock</text>
+<text x="765" y="338" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5e7190" font-weight="700">Price</text>
+<text x="964" y="338" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5e7190" font-weight="700">Availability</text>
+<text x="1209" y="338" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5e7190" font-weight="700">Actions</text>
+<rect x="49" y="355" width="1342" height="82" rx="4" fill="#f4f8fd" stroke="none"/>
+<rect x="66" y="367" width="56" height="56" rx="7" fill="#d4dfeb" stroke="none"/>
+<text x="145" y="389" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#1d4ed8" font-weight="600">Demo Training Top - Blue</text>
+<text x="145" y="415" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#62748e" font-weight="400">DEMO-TOP-BLU-M</text>
+<rect x="538" y="377" width="79" height="37" rx="3" fill="#fff" stroke="#a8b8cb"/>
+<text x="557" y="403" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#23334d" font-weight="400">18</text>
+<rect x="630" y="377" width="93" height="37" rx="3" fill="#e7f0ff" stroke="none"/>
+<text x="646" y="402" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#2563eb" font-weight="700">Update</text>
+<text x="770" y="402" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#23334d" font-weight="400">EGP 790</text>
+<text x="968" y="403" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#16834b" font-weight="400">In stock</text>
+<rect x="1211" y="384" width="74" height="28" rx="7" fill="#eaf2ff" stroke="none"/><text x="1220" y="404" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#2764b1" font-weight="600">History</text>
+<rect x="49" y="445" width="1342" height="82" rx="4" fill="#fff" stroke="none"/>
+<rect x="66" y="457" width="56" height="56" rx="7" fill="#d4dfeb" stroke="none"/>
+<text x="145" y="479" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#1d4ed8" font-weight="600">Demo Running Shorts - Black</text>
+<text x="145" y="505" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#62748e" font-weight="400">DEMO-SHT-BLK-L</text>
+<rect x="538" y="467" width="79" height="37" rx="3" fill="#fff" stroke="#a8b8cb"/>
+<text x="557" y="493" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#23334d" font-weight="400">7</text>
+<rect x="630" y="467" width="93" height="37" rx="3" fill="#e7f0ff" stroke="none"/>
+<text x="646" y="492" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#2563eb" font-weight="700">Update</text>
+<text x="770" y="492" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#23334d" font-weight="400">EGP 650</text>
+<text x="968" y="493" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#16834b" font-weight="400">In stock</text>
+<rect x="1211" y="474" width="74" height="28" rx="7" fill="#eaf2ff" stroke="none"/><text x="1220" y="494" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#2764b1" font-weight="600">History</text>
+<rect x="49" y="535" width="1342" height="82" rx="4" fill="#f4f8fd" stroke="none"/>
+<rect x="66" y="547" width="56" height="56" rx="7" fill="#d4dfeb" stroke="none"/>
+<text x="145" y="569" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#1d4ed8" font-weight="600">Demo Yoga Leggings - Grey</text>
+<text x="145" y="595" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#62748e" font-weight="400">DEMO-LEG-GRY-S</text>
+<rect x="538" y="557" width="79" height="37" rx="3" fill="#fff" stroke="#a8b8cb"/>
+<text x="557" y="583" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#23334d" font-weight="400">0</text>
+<rect x="630" y="557" width="93" height="37" rx="3" fill="#e7f0ff" stroke="none"/>
+<text x="646" y="582" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#2563eb" font-weight="700">Update</text>
+<text x="770" y="582" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#23334d" font-weight="400">EGP 940</text>
+<text x="968" y="583" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#aa5a1e" font-weight="400">Out of stock</text>
+<rect x="1211" y="564" width="74" height="28" rx="7" fill="#eaf2ff" stroke="none"/><text x="1220" y="584" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#2764b1" font-weight="600">History</text>
+</svg>

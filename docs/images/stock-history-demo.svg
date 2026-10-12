@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="680" viewBox="0 0 1440 680">
+<rect x="0" y="0" width="1440" height="680" rx="0" fill="#f3f6fa" stroke="none"/>
+<rect x="0" y="0" width="1440" height="79" rx="0" fill="#172a46" stroke="none"/>
+<text x="35" y="51" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="white" font-weight="700">AZULA   /   INVENTORY</text>
+<text x="1120" y="49" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#c0d6ee" font-weight="700">ILLUSTRATIVE DEMO</text>
+<rect x="34" y="96" width="1372" height="550" rx="14" fill="#fff" stroke="#d9e3ef"/>
+<rect x="57" y="113" width="163" height="42" rx="6" fill="#f1f4f8" stroke="none"/>
+<text x="75" y="140" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#637084" font-weight="400">Stock Lookup</text>
+<rect x="230" y="113" width="163" height="42" rx="6" fill="#dbeaff" stroke="none"/>
+<text x="248" y="140" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#135baa" font-weight="700">Stock History</text>
+<rect x="403" y="113" width="163" height="42" rx="6" fill="#f1f4f8" stroke="none"/>
+<text x="421" y="140" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#637084" font-weight="400">Category Audit</text>
+<text x="58" y="196" font-family="Arial,Helvetica,sans-serif" font-size="27" fill="#142c50" font-weight="700">Stock History</text>
+<text x="58" y="225" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#64758c" font-weight="400">Synthetic sample data — not a live store screenshot</text>
+<rect x="58" y="248" width="175" height="44" rx="5" fill="#f6f8fb" stroke="#cbd6e5"/>
+<text x="73" y="276" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#8392a6" font-weight="400">SKU search</text>
+<rect x="245" y="248" width="250" height="44" rx="5" fill="#f6f8fb" stroke="#cbd6e5"/>
+<text x="259" y="276" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#8392a6" font-weight="400">Product name</text>
+<rect x="507" y="248" width="230" height="44" rx="5" fill="#f6f8fb" stroke="#cbd6e5"/>
+<text x="521" y="276" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#8392a6" font-weight="400">Source</text>
+<rect x="752" y="248" width="110" height="44" rx="5" fill="#2563eb" stroke="none"/>
+<text x="781" y="276" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="white" font-weight="700">Filter</text>
+<text x="62" y="347" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5e7190" font-weight="700">Date / time</text>
+<text x="315" y="347" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5e7190" font-weight="700">Product / SKU</text>
+<text x="785" y="347" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5e7190" font-weight="700">Previous → New</text>
+<text x="1010" y="347" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5e7190" font-weight="700">Difference</text>
+<text x="1150" y="347" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5e7190" font-weight="700">Source</text>
+<rect x="49" y="364" width="1342" height="58" rx="3" fill="#f4f8fd" stroke="none"/>
+<text x="62" y="399" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">2026-10-12 11:12</text>
+<text x="315" y="399" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">Demo Training Top / DEMO-TOP-BLU-M</text>
+<text x="785" y="399" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">20 → 18</text>
+<text x="1010" y="399" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">−2</text>
+<text x="1150" y="399" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">Warehouse API</text>
+<rect x="49" y="426" width="1342" height="58" rx="3" fill="#fff" stroke="none"/>
+<text x="62" y="461" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">2026-10-12 10:43</text>
+<text x="315" y="461" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">Demo Running Shorts / DEMO-SHT-BLK-L</text>
+<text x="785" y="461" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">8 → 7</text>
+<text x="1010" y="461" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">−1</text>
+<text x="1150" y="461" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">Woo order</text>
+<rect x="49" y="488" width="1342" height="58" rx="3" fill="#f4f8fd" stroke="none"/>
+<text x="62" y="523" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">2026-10-11 16:21</text>
+<text x="315" y="523" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">Demo Yoga Leggings / DEMO-LEG-GRY-S</text>
+<text x="785" y="523" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">2 → 0</text>
+<text x="1010" y="523" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">−2</text>
+<text x="1150" y="523" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">Admin</text>
+<rect x="49" y="550" width="1342" height="58" rx="3" fill="#fff" stroke="none"/>
+<text x="62" y="585" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">2026-10-11 13:11</text>
+<text x="315" y="585" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">Demo Training Top / DEMO-TOP-BLU-M</text>
+<text x="785" y="585" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">15 → 20</text>
+<text x="1010" y="585" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">+5</text>
+<text x="1150" y="585" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#33445c" font-weight="400">Manual update</text>
+</svg>
