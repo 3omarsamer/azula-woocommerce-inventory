@@ -1,0 +1,16 @@
+.azsh-filters{margin:14px 0;display:flex;gap:7px;flex-wrap:wrap;align-items:center}.azsh-table{margin-top:10px}.azsh-modal[hidden]{display:none}.azsh-modal{position:fixed;z-index:100000;inset:0;background:rgba(0,0,0,.42);display:flex;align-items:center;justify-content:center;padding:30px}.azsh-modal-card{position:relative;background:#fff;width:min(900px,95vw);max-height:80vh;overflow:auto;border-radius:8px;padding:22px;box-shadow:0 10px 40px rgba(0,0,0,.25)}.azsh-close{position:absolute;right:14px;top:10px;border:0;background:none;font-size:28px;cursor:pointer}.azsh-modal-body{margin-top:15px}
+
+.azsh-tabs{margin-bottom:18px}.azsh-lookup-filters{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:14px 0}.azsh-search{min-width:340px}.azsh-lookup-table td{vertical-align:middle}.azsh-image-col{width:70px}.azsh-thumb,.azsh-image-col img{width:56px;height:70px;object-fit:cover;border-radius:5px}.azsh-stock-col{width:190px}.azsh-stock-col>a{text-decoration:none}.azsh-stock-editor{display:flex;gap:6px;align-items:center}.azsh-stock-editor input{width:75px}
+
+.azsh-actions{white-space:nowrap}.azsh-skus-card{max-width:850px}.azsh-skus-body{max-height:65vh;overflow:auto}.azsh-product-status{font-weight:600}.azsh-status-publish{color:#008a20}.azsh-status-draft{color:#996800}
+
+.azsh-price,.azsh-total-value-col{white-space:nowrap}.azsh-toggle-value{font-size:16px;cursor:pointer}.azsh-lookup-filters select[name="category"]{min-width:190px}
+
+.azsh-audit-filters{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:14px 0}
+.azsh-audit-table td{vertical-align:top}
+.azsh-audit-table th:nth-child(1){width:20%}.azsh-audit-table th:nth-child(2){width:15%}.azsh-audit-table th:nth-child(3){width:23%}.azsh-audit-table th:nth-child(4){width:22%}
+.azsh-cat-chip{display:inline-block;background:#f0f0f1;border:1px solid #dcdcde;border-radius:12px;padding:2px 8px;margin:0 3px 5px 0}
+.azsh-suggestion{margin:0 0 7px}.azsh-suggestion .button{margin-left:6px}.azsh-ok{color:#008a20;font-weight:600}
+.azsh-category-select{max-width:190px;margin-bottom:6px}
+
+.azsh-audit-table th:nth-child(1){width:64px}.azsh-audit-table td{vertical-align:middle}.azsh-audit-table th{white-space:nowrap}

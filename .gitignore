@@ -1,0 +1,21 @@
+# Local artifacts and secrets
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!*.example
+wp-config.php
+*.pem
+*.key
+*.p12
+*.pfx
+node_modules/
+vendor/
+__pycache__/
+*.zip
